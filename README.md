@@ -18,7 +18,7 @@ git branch
 
 ### for new branch
 #### when we on anuther branch we have a cope is diffrent on the master cope   
-git checkout -b new-brsnch 
+git checkout -b new-brsnch or git branch new-branch -> git checkout new-branch 
 
 I will do some chaings like I will add some file on new-branch
 
