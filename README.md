@@ -27,3 +27,6 @@ git commit -m "creat the index file"
 git checkout -b master 
 
 and change will be effict just on the new-branch
+
+git diff new-brsnch
+//to see the files differences between the branches
